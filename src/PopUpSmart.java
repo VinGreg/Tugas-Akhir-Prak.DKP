@@ -86,8 +86,6 @@ public class PopUpSmart extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void KembaliActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_KembaliActionPerformed
-        Beranda main = new Beranda();
-        main.setVisible(true);
         dispose();
     }//GEN-LAST:event_KembaliActionPerformed
 
